@@ -1,0 +1,106 @@
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\SimpleDBAccess.exe.config
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\SimpleDBAccess.exe
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\SimpleDBAccess.pdb
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\MySql.Data.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Buffers.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Memory.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\ZstdSharp.dll
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\Google.Protobuf.pdb
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\MySql.Data.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Buffers.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.IO.Pipelines.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Memory.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.csproj.AssemblyReference.cache
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\MainWindow.g.cs
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\App.g.cs
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess_MarkupCompile.cache
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess_MarkupCompile.lref
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\MainWindow.baml
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.g.resources
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.Properties.Resources.resources
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.csproj.GenerateResource.cache
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.csproj.CoreCompileInputs.cache
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDB.C2630BA8.Up2Date
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.exe
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\SimpleDBAccess.pdb
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\newele.g.cs
+C:\Users\WOLFFLU\Source\Repos\patenaufgabe\SimpleDBAccess\obj\Debug\newele.baml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\SimpleDBAccess.exe.config
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\SimpleDBAccess.exe
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\SimpleDBAccess.pdb
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\MySql.Data.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Buffers.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Memory.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\ZstdSharp.dll
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\Google.Protobuf.pdb
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\MySql.Data.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Buffers.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.IO.Pipelines.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Memory.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.csproj.AssemblyReference.cache
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\editwin.g.cs
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\MainWindow.g.cs
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\newele.g.cs
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\App.g.cs
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess_MarkupCompile.cache
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess_MarkupCompile.lref
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\MainWindow.baml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\newele.baml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\editwin.baml
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.g.resources
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.Properties.Resources.resources
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.csproj.GenerateResource.cache
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.csproj.CoreCompileInputs.cache
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDB.C2630BA8.Up2Date
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.exe
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.pdb
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\SimpleDBAccess.exe.manifest
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\bin\Debug\SimpleDBAccess.application
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.exe.manifest
+C:\Users\WOLFFLU\OneDrive - Mercedes-Benz (corpdir.onmicrosoft.com)\source\repos\patenaufgabe - Kopie\SimpleDBAccess\obj\Debug\SimpleDBAccess.application
